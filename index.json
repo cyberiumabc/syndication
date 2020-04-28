@@ -1,6 +1,6 @@
 [
-  {"name":"SOLYD", "id":"SOL", "icon":"assets/solyd.png"},
-  {"name":"CYBERIUMS", "id":"CBM", "icon":"assets/cyberiums.png"},
-  {"name":"BITCOIN", "id":"BTC", "icon":"assets/bitcoin.png"},
-  {"name":"ETHEREUM", "id":"ETH", "icon":"assets/ethereum.png"}
+  {"name":"SOLYD", "id":"SOL", "icon":"assets/solyd.png","rcp":"https://sol.thesolyd.com"},
+  {"name":"SANGAM", "id":"SAN", "icon":"assets/sangam.png","rcp":"https://san.thesolyd.com"},
+  {"name":"BITCOIN", "id":"BTC", "icon":"assets/bitcoin.png","rcp":"https://btc.thesolyd.com"},
+  {"name":"ETHEREUM", "id":"ETH", "icon":"assets/ethereum.png","rcp":"https://eth.thesolyd.com"}
 ]
